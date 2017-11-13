@@ -5,7 +5,7 @@
  * For example, the edit distance between "a" and "b" is 1, the edit distance between "abc" and "def" is 3.
  */
 
-package main.java.com.nitin.algo;
+package com.nitin.algo;
 
 public class EditDistance {
 	
