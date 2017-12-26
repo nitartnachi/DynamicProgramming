@@ -15,6 +15,7 @@ public class MaxSumArray {
 	private static int maxSumArray(int[] arr) {
 		if (arr == null || arr.length == 0)
 			throw new IllegalArgumentException("Invalid input");
+		
 		int[] sum = new int[arr.length];
 		int max = arr[0];
 		sum[0] = arr[0];
